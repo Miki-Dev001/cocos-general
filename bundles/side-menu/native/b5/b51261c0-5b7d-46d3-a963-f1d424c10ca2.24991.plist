@@ -102,9 +102,7 @@
     <integer>0</integer>
     <key>tangentialAcceleration</key>
     <integer>0</integer>
-    <key>textureFileName</key>
-    <string>loading-progress-particle.png</string>
-    <key>textureImageData</key>
-    <string/>
+    <key>spriteFrameUuid</key>
+    <string>52c09318-3361-49f6-97f6-21a2a86198c0</string>
   </dict>
 </plist>

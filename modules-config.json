@@ -1,14 +1,14 @@
 {
-  "side-menu": {
-    "version": "4c9c3"
-  },
-  "pop-up-setting": {
-    "version": "cdba6"
-  },
-  "history-panel": {
-    "version": "3a650"
-  },
-  "information-panel": {
-    "version": "59276"
-  }
+    "side-menu": {
+        "version": "c2bd2"
+    },
+    "pop-up-setting": {
+        "version": "4313b"
+    },
+    "history-panel": {
+        "version": "14c70"
+    },
+    "information-panel": {
+        "version": "07e4f"
+    }
 }
