@@ -1,14 +1,17 @@
 {
     "side-menu": {
-        "version": "20653"
+        "version": "db7a6"
     },
     "pop-up-setting": {
-        "version": "f015f"
+        "version": "9b5e2"
     },
     "history-panel": {
-        "version": "7aada"
+        "version": "71a01"
     },
     "information-panel": {
-        "version": "29e2c"
+        "version": "6cdcc"
+    },
+    "multi-table": {
+        "version": "c2fc2"
     }
 }
