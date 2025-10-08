@@ -1,0 +1,1791 @@
+
+ChatDealerStickerAnimation.png
+size: 1492,777
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pose 1 rushing/arm L1
+  rotate: false
+  xy: 1333, 247
+  size: 37, 48
+  orig: 42, 52
+  offset: 1, 2
+  index: -1
+Pose 1 rushing/arm L1W
+  rotate: false
+  xy: 1117, 261
+  size: 47, 60
+  orig: 50, 62
+  offset: 1, 1
+  index: -1
+Pose 1 rushing/arm R1
+  rotate: false
+  xy: 941, 113
+  size: 40, 43
+  orig: 43, 47
+  offset: 1, 2
+  index: -1
+Pose 1 rushing/arm R1W
+  rotate: false
+  xy: 542, 159
+  size: 52, 55
+  orig: 53, 57
+  offset: 1, 1
+  index: -1
+Pose 1 rushing/body 1
+  rotate: false
+  xy: 606, 270
+  size: 72, 65
+  orig: 76, 70
+  offset: 1, 3
+  index: -1
+Pose 1 rushing/body 1W
+  rotate: false
+  xy: 322, 192
+  size: 85, 78
+  orig: 85, 80
+  offset: 0, 1
+  index: -1
+Pose 1 rushing/eye L1
+  rotate: false
+  xy: 1415, 76
+  size: 25, 25
+  orig: 30, 33
+  offset: 2, 4
+  index: -1
+Pose 1 rushing/eye R1
+  rotate: false
+  xy: 1309, 150
+  size: 20, 25
+  orig: 28, 32
+  offset: 4, 3
+  index: -1
+Pose 1 rushing/eye highlight 1-2-5
+  rotate: false
+  xy: 1408, 615
+  size: 6, 7
+  orig: 16, 17
+  offset: 5, 5
+  index: -1
+Pose 1 rushing/eyebrow L1
+  rotate: true
+  xy: 1231, 96
+  size: 34, 11
+  orig: 41, 18
+  offset: 4, 3
+  index: -1
+Pose 1 rushing/eyebrow R1
+  rotate: true
+  xy: 1462, 40
+  size: 30, 11
+  orig: 37, 19
+  offset: 3, 4
+  index: -1
+Pose 1 rushing/eyeline L1
+  rotate: false
+  xy: 471, 159
+  size: 44, 18
+  orig: 49, 25
+  offset: 2, 3
+  index: -1
+Pose 1 rushing/eyeline R1
+  rotate: false
+  xy: 346, 2
+  size: 37, 19
+  orig: 42, 24
+  offset: 2, 2
+  index: -1
+Pose 1 rushing/forearm L1
+  rotate: true
+  xy: 682, 71
+  size: 45, 40
+  orig: 48, 42
+  offset: 2, 0
+  index: -1
+Pose 1 rushing/forearm L1W
+  rotate: true
+  xy: 1148, 204
+  size: 55, 48
+  orig: 57, 51
+  offset: 1, 2
+  index: -1
+Pose 1 rushing/forearm R1
+  rotate: true
+  xy: 1161, 133
+  size: 26, 42
+  orig: 29, 45
+  offset: 2, 2
+  index: -1
+Pose 1 rushing/forearm R1W
+  rotate: false
+  xy: 594, 70
+  size: 36, 52
+  orig: 39, 54
+  offset: 2, 1
+  index: -1
+Pose 1 rushing/fringe 1
+  rotate: false
+  xy: 333, 540
+  size: 114, 135
+  orig: 117, 137
+  offset: 1, 1
+  index: -1
+Pose 1 rushing/fringe 1W
+  rotate: true
+  xy: 606, 337
+  size: 124, 146
+  orig: 127, 147
+  offset: 1, 1
+  index: -1
+Pose 1 rushing/head 1
+  rotate: false
+  xy: 606, 463
+  size: 142, 147
+  orig: 146, 149
+  offset: 1, 1
+  index: -1
+Pose 1 rushing/head 1W
+  rotate: false
+  xy: 1103, 620
+  size: 153, 155
+  orig: 155, 159
+  offset: 1, 2
+  index: -1
+Pose 1 rushing/mouth 4
+  rotate: false
+  xy: 1244, 94
+  size: 26, 29
+  orig: 33, 35
+  offset: 3, 3
+  index: -1
+Pose 1 rushing/sclera L1
+  rotate: true
+  xy: 1006, 79
+  size: 32, 27
+  orig: 38, 33
+  offset: 3, 2
+  index: -1
+Pose 1 rushing/sclera R1
+  rotate: false
+  xy: 1266, 64
+  size: 30, 28
+  orig: 33, 32
+  offset: 2, 2
+  index: -1
+Pose 1 rushing/speaker 1
+  rotate: false
+  xy: 99, 2
+  size: 82, 87
+  orig: 86, 90
+  offset: 1, 1
+  index: -1
+Pose 1 rushing/speaker 1W
+  rotate: false
+  xy: 2, 3
+  size: 95, 98
+  orig: 96, 99
+  offset: 0, 0
+  index: -1
+Pose 1 rushing/speaker 1_01
+  rotate: false
+  xy: 863, 160
+  size: 29, 35
+  orig: 34, 39
+  offset: 3, 2
+  index: -1
+Pose 1 rushing/speaker 1_01W
+  rotate: false
+  xy: 999, 157
+  size: 41, 46
+  orig: 42, 48
+  offset: 1, 0
+  index: -1
+Pose 1 rushing/speaker 1_02
+  rotate: true
+  xy: 1219, 160
+  size: 42, 23
+  orig: 48, 28
+  offset: 3, 2
+  index: -1
+Pose 1 rushing/speaker 1_02W
+  rotate: false
+  xy: 462, 2
+  size: 55, 33
+  orig: 58, 37
+  offset: 2, 2
+  index: -1
+Pose 1 rushing/speaker 1_03
+  rotate: false
+  xy: 1442, 99
+  size: 28, 20
+  orig: 34, 25
+  offset: 3, 2
+  index: -1
+Pose 1 rushing/speaker 1_03W
+  rotate: false
+  xy: 1042, 126
+  size: 40, 30
+  orig: 42, 34
+  offset: 2, 2
+  index: -1
+Pose 2 angry/angry sign 2
+  rotate: false
+  xy: 655, 160
+  size: 53, 51
+  orig: 58, 57
+  offset: 2, 3
+  index: -1
+Pose 2 angry/angry sign 2W
+  rotate: false
+  xy: 1166, 265
+  size: 60, 59
+  orig: 65, 63
+  offset: 3, 2
+  index: -1
+Pose 2 angry/arm L2
+  rotate: false
+  xy: 1429, 197
+  size: 55, 26
+  orig: 59, 33
+  offset: 2, 3
+  index: -1
+Pose 2 angry/arm L2W
+  rotate: false
+  xy: 894, 213
+  size: 64, 38
+  orig: 69, 42
+  offset: 2, 2
+  index: -1
+Pose 2 angry/arm R2
+  rotate: true
+  xy: 578, 37
+  size: 31, 53
+  orig: 36, 57
+  offset: 3, 2
+  index: -1
+Pose 2 angry/arm R2W
+  rotate: true
+  xy: 960, 205
+  size: 42, 64
+  orig: 46, 67
+  offset: 2, 2
+  index: -1
+Pose 2 angry/body 2
+  rotate: false
+  xy: 596, 213
+  size: 70, 55
+  orig: 76, 61
+  offset: 3, 2
+  index: -1
+Pose 2 angry/body 2W
+  rotate: true
+  xy: 409, 190
+  size: 80, 67
+  orig: 86, 71
+  offset: 2, 2
+  index: -1
+Pose 2 angry/eye L2
+  rotate: false
+  xy: 1305, 95
+  size: 21, 24
+  orig: 30, 31
+  offset: 4, 3
+  index: -1
+Pose 2 angry/eye R2
+  rotate: false
+  xy: 1410, 25
+  size: 23, 22
+  orig: 31, 30
+  offset: 4, 4
+  index: -1
+Pose 2 angry/eyebrow L2
+  rotate: false
+  xy: 1449, 152
+  size: 33, 13
+  orig: 40, 21
+  offset: 4, 4
+  index: -1
+Pose 2 angry/eyebrow R2
+  rotate: false
+  xy: 1331, 140
+  size: 37, 16
+  orig: 47, 24
+  offset: 4, 3
+  index: -1
+Pose 2 angry/eyeline L2
+  rotate: true
+  xy: 995, 41
+  size: 36, 16
+  orig: 43, 25
+  offset: 4, 5
+  index: -1
+Pose 2 angry/eyeline R2
+  rotate: true
+  xy: 1244, 163
+  size: 42, 18
+  orig: 50, 26
+  offset: 5, 4
+  index: -1
+Pose 2 angry/forearm L2
+  rotate: false
+  xy: 1079, 45
+  size: 35, 39
+  orig: 38, 43
+  offset: 1, 2
+  index: -1
+Pose 2 angry/forearm L2W
+  rotate: false
+  xy: 1223, 207
+  size: 41, 49
+  orig: 46, 53
+  offset: 3, 1
+  index: -1
+Pose 2 angry/forearm R2
+  rotate: false
+  xy: 1110, 2
+  size: 26, 41
+  orig: 30, 46
+  offset: 2, 2
+  index: -1
+Pose 2 angry/forearm R2W
+  rotate: false
+  xy: 569, 339
+  size: 35, 52
+  orig: 40, 56
+  offset: 2, 2
+  index: -1
+Pose 2 angry/fringe 2W
+  rotate: false
+  xy: 754, 311
+  size: 132, 150
+  orig: 136, 155
+  offset: 3, 2
+  index: -1
+Pose 2 angry/fringe 2_01
+  rotate: false
+  xy: 1020, 323
+  size: 122, 141
+  orig: 127, 146
+  offset: 2, 3
+  index: -1
+Pose 2 angry/fringe 2_02
+  rotate: false
+  xy: 606, 620
+  size: 15, 65
+  orig: 21, 69
+  offset: 4, 2
+  index: -1
+Pose 2 angry/gas 2_01
+  rotate: false
+  xy: 1331, 201
+  size: 39, 44
+  orig: 42, 48
+  offset: 2, 2
+  index: -1
+Pose 2 angry/gas 2_01W
+  rotate: false
+  xy: 710, 159
+  size: 49, 54
+  orig: 52, 57
+  offset: 2, 2
+  index: -1
+Pose 2 angry/gas 2_02
+  rotate: false
+  xy: 960, 249
+  size: 56, 60
+  orig: 59, 63
+  offset: 2, 2
+  index: -1
+Pose 2 angry/gas 2_02W
+  rotate: true
+  xy: 824, 242
+  size: 67, 68
+  orig: 69, 71
+  offset: 1, 2
+  index: -1
+Pose 2 angry/gas 2_03
+  rotate: false
+  xy: 633, 37
+  size: 53, 32
+  orig: 56, 36
+  offset: 1, 2
+  index: -1
+Pose 2 angry/gas 2_03W
+  rotate: false
+  xy: 1266, 205
+  size: 63, 43
+  orig: 66, 45
+  offset: 2, 1
+  index: -1
+Pose 2 angry/hand L2
+  rotate: false
+  xy: 294, 3
+  size: 50, 86
+  orig: 55, 90
+  offset: 2, 2
+  index: -1
+Pose 2 angry/hand L2W
+  rotate: true
+  xy: 1020, 263
+  size: 58, 95
+  orig: 63, 99
+  offset: 3, 2
+  index: -1
+Pose 2 angry/hand R2
+  rotate: false
+  xy: 1314, 31
+  size: 28, 31
+  orig: 32, 35
+  offset: 2, 2
+  index: -1
+Pose 2 angry/hand R2W
+  rotate: false
+  xy: 1116, 45
+  size: 35, 39
+  orig: 40, 44
+  offset: 2, 2
+  index: -1
+Pose 2 angry/head 2W
+  rotate: false
+  xy: 2, 437
+  size: 162, 168
+  orig: 165, 171
+  offset: 1, 2
+  index: -1
+Pose 2 angry/head 2_01
+  rotate: false
+  xy: 949, 618
+  size: 152, 157
+  orig: 157, 161
+  offset: 1, 2
+  index: -1
+Pose 2 angry/head 2_02
+  rotate: true
+  xy: 1258, 624
+  size: 151, 156
+  orig: 157, 161
+  offset: 2, 2
+  index: -1
+Pose 2 angry/mouth 4
+  rotate: true
+  xy: 1081, 2
+  size: 41, 27
+  orig: 47, 33
+  offset: 3, 3
+  index: -1
+Pose 2 angry/sclera L2
+  rotate: true
+  xy: 1298, 64
+  size: 29, 22
+  orig: 35, 29
+  offset: 3, 3
+  index: -1
+Pose 2 angry/sclera R2
+  rotate: true
+  xy: 593, 2
+  size: 33, 24
+  orig: 39, 30
+  offset: 3, 3
+  index: -1
+Pose 3 win/arm L3
+  rotate: true
+  xy: 762, 64
+  size: 43, 48
+  orig: 48, 53
+  offset: 2, 3
+  index: -1
+Pose 3 win/arm L3W
+  rotate: true
+  xy: 596, 160
+  size: 51, 57
+  orig: 57, 63
+  offset: 3, 3
+  index: -1
+Pose 3 win/arm R3
+  rotate: false
+  xy: 914, 74
+  size: 39, 37
+  orig: 44, 43
+  offset: 3, 3
+  index: -1
+Pose 3 win/arm R3W
+  rotate: false
+  xy: 812, 74
+  size: 49, 48
+  orig: 54, 52
+  offset: 3, 2
+  index: -1
+Pose 3 win/body 3
+  rotate: false
+  xy: 1026, 207
+  size: 59, 54
+  orig: 66, 61
+  offset: 3, 3
+  index: -1
+Pose 3 win/body 3W
+  rotate: false
+  xy: 680, 271
+  size: 71, 64
+  orig: 76, 70
+  offset: 2, 3
+  index: -1
+Pose 3 win/cash 3_00
+  rotate: true
+  xy: 867, 197
+  size: 43, 25
+  orig: 49, 31
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_00W
+  rotate: true
+  xy: 724, 64
+  size: 54, 36
+  orig: 60, 41
+  offset: 3, 2
+  index: -1
+Pose 3 win/cash 3_01
+  rotate: false
+  xy: 968, 2
+  size: 41, 37
+  orig: 46, 43
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_01W
+  rotate: true
+  xy: 762, 109
+  size: 49, 47
+  orig: 56, 53
+  offset: 4, 3
+  index: -1
+Pose 3 win/cash 3_02
+  rotate: false
+  xy: 1466, 499
+  size: 24, 26
+  orig: 30, 33
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_02W
+  rotate: false
+  xy: 1011, 2
+  size: 34, 37
+  orig: 40, 43
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_03
+  rotate: false
+  xy: 1205, 132
+  size: 37, 26
+  orig: 43, 32
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_03W
+  rotate: false
+  xy: 780, 2
+  size: 46, 35
+  orig: 52, 41
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_04
+  rotate: false
+  xy: 1264, 177
+  size: 42, 26
+  orig: 48, 32
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_04W
+  rotate: false
+  xy: 596, 124
+  size: 51, 34
+  orig: 57, 41
+  offset: 3, 4
+  index: -1
+Pose 3 win/cash 3_05
+  rotate: false
+  xy: 869, 41
+  size: 44, 31
+  orig: 50, 37
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_05W
+  rotate: true
+  xy: 709, 215
+  size: 54, 42
+  orig: 60, 48
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_06
+  rotate: true
+  xy: 1133, 93
+  size: 46, 22
+  orig: 51, 28
+  offset: 2, 3
+  index: -1
+Pose 3 win/cash 3_06W
+  rotate: false
+  xy: 522, 37
+  size: 54, 31
+  orig: 61, 37
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_07
+  rotate: true
+  xy: 863, 113
+  size: 45, 29
+  orig: 52, 35
+  offset: 4, 3
+  index: -1
+Pose 3 win/cash 3_07W
+  rotate: true
+  xy: 668, 213
+  size: 55, 39
+  orig: 61, 44
+  offset: 3, 2
+  index: -1
+Pose 3 win/cash 3_08
+  rotate: true
+  xy: 894, 113
+  size: 43, 45
+  orig: 49, 51
+  offset: 4, 3
+  index: -1
+Pose 3 win/cash 3_08W
+  rotate: true
+  xy: 471, 105
+  size: 52, 55
+  orig: 58, 61
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_09
+  rotate: false
+  xy: 1455, 167
+  size: 35, 28
+  orig: 41, 34
+  offset: 3, 3
+  index: -1
+Pose 3 win/cash 3_09W
+  rotate: false
+  xy: 876, 2
+  size: 44, 37
+  orig: 50, 42
+  offset: 3, 2
+  index: -1
+Pose 3 win/eyebrow L3
+  rotate: false
+  xy: 1157, 82
+  size: 35, 13
+  orig: 41, 20
+  offset: 3, 3
+  index: -1
+Pose 3 win/eyebrow R3
+  rotate: true
+  xy: 1244, 125
+  size: 36, 18
+  orig: 43, 25
+  offset: 3, 3
+  index: -1
+Pose 3 win/forearm L3
+  rotate: true
+  xy: 955, 41
+  size: 36, 38
+  orig: 42, 44
+  offset: 3, 3
+  index: -1
+Pose 3 win/forearm L3W
+  rotate: true
+  xy: 632, 71
+  size: 45, 48
+  orig: 51, 54
+  offset: 3, 3
+  index: -1
+Pose 3 win/forearm R3
+  rotate: true
+  xy: 1272, 95
+  size: 32, 31
+  orig: 38, 37
+  offset: 3, 3
+  index: -1
+Pose 3 win/forearm R3W
+  rotate: false
+  xy: 1131, 162
+  size: 42, 40
+  orig: 48, 46
+  offset: 3, 3
+  index: -1
+Pose 3 win/fringe 3
+  rotate: false
+  xy: 1144, 326
+  size: 120, 140
+  orig: 124, 145
+  offset: 2, 2
+  index: -1
+Pose 3 win/fringe 3W
+  rotate: false
+  xy: 888, 311
+  size: 130, 150
+  orig: 134, 154
+  offset: 2, 2
+  index: -1
+Pose 3 win/glasses
+  rotate: false
+  xy: 1266, 297
+  size: 104, 52
+  orig: 111, 58
+  offset: 3, 3
+  index: -1
+Pose 3 win/glasses shadow 3
+  rotate: false
+  xy: 1372, 280
+  size: 104, 50
+  orig: 110, 58
+  offset: 3, 4
+  index: -1
+Pose 3 win/hand L3
+  rotate: false
+  xy: 478, 199
+  size: 62, 76
+  orig: 69, 82
+  offset: 4, 3
+  index: -1
+Pose 3 win/hand L3W
+  rotate: false
+  xy: 1416, 686
+  size: 74, 89
+  orig: 79, 92
+  offset: 2, 1
+  index: -1
+Pose 3 win/hand R3
+  rotate: false
+  xy: 915, 41
+  size: 37, 31
+  orig: 43, 36
+  offset: 3, 2
+  index: -1
+Pose 3 win/hand R3W
+  rotate: true
+  xy: 1042, 158
+  size: 47, 40
+  orig: 52, 45
+  offset: 2, 2
+  index: -1
+Pose 3 win/head 3
+  rotate: false
+  xy: 793, 616
+  size: 154, 159
+  orig: 160, 163
+  offset: 3, 2
+  index: -1
+Pose 3 win/head 3W
+  rotate: false
+  xy: 2, 607
+  size: 166, 168
+  orig: 170, 172
+  offset: 2, 2
+  index: -1
+Pose 3 win/mouth 4
+  rotate: false
+  xy: 1444, 121
+  size: 31, 29
+  orig: 37, 35
+  offset: 3, 3
+  index: -1
+Pose 3 win/tag 3
+  rotate: true
+  xy: 1429, 225
+  size: 17, 9
+  orig: 23, 16
+  offset: 3, 4
+  index: -1
+Pose 4 lose/arm L4
+  rotate: true
+  xy: 810, 216
+  size: 24, 55
+  orig: 29, 61
+  offset: 2, 3
+  index: -1
+Pose 4 lose/arm L4W
+  rotate: true
+  xy: 1372, 244
+  size: 34, 66
+  orig: 39, 71
+  offset: 2, 2
+  index: -1
+Pose 4 lose/arm R4
+  rotate: false
+  xy: 1050, 41
+  size: 27, 43
+  orig: 33, 50
+  offset: 3, 3
+  index: -1
+Pose 4 lose/arm R4W
+  rotate: true
+  xy: 706, 120
+  size: 37, 54
+  orig: 43, 60
+  offset: 3, 3
+  index: -1
+Pose 4 lose/body 4
+  rotate: true
+  xy: 467, 37
+  size: 66, 53
+  orig: 73, 59
+  offset: 3, 3
+  index: -1
+Pose 4 lose/body 4W
+  rotate: false
+  xy: 1408, 527
+  size: 77, 63
+  orig: 83, 69
+  offset: 3, 3
+  index: -1
+Pose 4 lose/dot 4
+  rotate: true
+  xy: 517, 159
+  size: 18, 19
+  orig: 26, 27
+  offset: 4, 4
+  index: -1
+Pose 4 lose/dot 4W
+  rotate: false
+  xy: 1322, 64
+  size: 28, 29
+  orig: 34, 35
+  offset: 3, 3
+  index: -1
+Pose 4 lose/eye L4
+  rotate: false
+  xy: 1401, 6
+  size: 16, 17
+  orig: 24, 25
+  offset: 4, 4
+  index: -1
+Pose 4 lose/eye R4
+  rotate: false
+  xy: 1419, 7
+  size: 16, 16
+  orig: 24, 25
+  offset: 4, 4
+  index: -1
+Pose 4 lose/eyebrow L4
+  rotate: true
+  xy: 1478, 296
+  size: 34, 12
+  orig: 41, 19
+  offset: 4, 3
+  index: -1
+Pose 4 lose/eyebrow R4
+  rotate: true
+  xy: 1477, 121
+  size: 29, 13
+  orig: 36, 20
+  offset: 3, 3
+  index: -1
+Pose 4 lose/eyeline L4
+  rotate: false
+  xy: 1371, 157
+  size: 37, 18
+  orig: 44, 24
+  offset: 3, 3
+  index: -1
+Pose 4 lose/eyeline R4
+  rotate: false
+  xy: 1370, 139
+  size: 35, 16
+  orig: 42, 23
+  offset: 3, 4
+  index: -1
+Pose 4 lose/forearm L4
+  rotate: true
+  xy: 1198, 204
+  size: 59, 23
+  orig: 66, 29
+  offset: 4, 3
+  index: -1
+Pose 4 lose/forearm L4W
+  rotate: false
+  xy: 390, 2
+  size: 70, 33
+  orig: 76, 39
+  offset: 3, 3
+  index: -1
+Pose 4 lose/forearm R4
+  rotate: false
+  xy: 619, 2
+  size: 22, 33
+  orig: 29, 38
+  offset: 4, 3
+  index: -1
+Pose 4 lose/forearm R4W
+  rotate: true
+  xy: 519, 2
+  size: 33, 42
+  orig: 39, 48
+  offset: 3, 3
+  index: -1
+Pose 4 lose/fringe 4
+  rotate: false
+  xy: 1266, 351
+  size: 110, 140
+  orig: 115, 144
+  offset: 2, 2
+  index: -1
+Pose 4 lose/fringe 4W
+  rotate: false
+  xy: 1011, 466
+  size: 123, 150
+  orig: 125, 154
+  offset: 1, 2
+  index: -1
+Pose 4 lose/hand R4
+  rotate: false
+  xy: 1013, 41
+  size: 35, 36
+  orig: 42, 42
+  offset: 3, 3
+  index: -1
+Pose 4 lose/head 4
+  rotate: true
+  xy: 164, 91
+  size: 148, 156
+  orig: 152, 160
+  offset: 2, 2
+  index: -1
+Pose 4 lose/head 4W
+  rotate: false
+  xy: 2, 269
+  size: 160, 166
+  orig: 162, 170
+  offset: 1, 2
+  index: -1
+Pose 4 lose/leaf 4_01
+  rotate: false
+  xy: 526, 278
+  size: 13, 13
+  orig: 19, 19
+  offset: 3, 3
+  index: -1
+Pose 4 lose/leaf 4_01W
+  rotate: false
+  xy: 1469, 75
+  size: 21, 22
+  orig: 27, 27
+  offset: 3, 2
+  index: -1
+Pose 4 lose/leaf 4_02
+  rotate: false
+  xy: 501, 277
+  size: 23, 14
+  orig: 29, 20
+  offset: 3, 3
+  index: -1
+Pose 4 lose/leaf 4_02W
+  rotate: true
+  xy: 1344, 31
+  size: 31, 23
+  orig: 37, 28
+  offset: 3, 2
+  index: -1
+Pose 4 lose/lines 4
+  rotate: true
+  xy: 404, 687
+  size: 88, 222
+  orig: 88, 222
+  offset: 0, 0
+  index: -1
+Pose 4 lose/lines 4W
+  rotate: true
+  xy: 170, 677
+  size: 98, 232
+  orig: 98, 232
+  offset: 0, 0
+  index: -1
+Pose 4 lose/mouth 4
+  rotate: false
+  xy: 1442, 72
+  size: 25, 25
+  orig: 30, 30
+  offset: 2, 2
+  index: -1
+Pose 4 lose/sclera L4
+  rotate: true
+  xy: 1383, 34
+  size: 28, 25
+  orig: 34, 31
+  offset: 3, 3
+  index: -1
+Pose 4 lose/sclera R4
+  rotate: false
+  xy: 1318, 2
+  size: 29, 27
+  orig: 35, 32
+  offset: 3, 2
+  index: -1
+Pose 5 shock/arm L5
+  rotate: true
+  xy: 894, 158
+  size: 36, 55
+  orig: 41, 60
+  offset: 2, 2
+  index: -1
+Pose 5 shock/arm L5W
+  rotate: true
+  xy: 1266, 250
+  size: 45, 65
+  orig: 49, 69
+  offset: 2, 2
+  index: -1
+Pose 5 shock/arm R5
+  rotate: true
+  xy: 813, 41
+  size: 31, 54
+  orig: 36, 59
+  offset: 2, 3
+  index: -1
+Pose 5 shock/arm R5W
+  rotate: true
+  xy: 528, 70
+  size: 42, 64
+  orig: 46, 68
+  offset: 2, 2
+  index: -1
+Pose 5 shock/body 5
+  rotate: false
+  xy: 1416, 592
+  size: 73, 57
+  orig: 77, 61
+  offset: 2, 2
+  index: -1
+Pose 5 shock/body 5W
+  rotate: true
+  xy: 401, 105
+  size: 83, 68
+  orig: 87, 71
+  offset: 2, 2
+  index: -1
+Pose 5 shock/exclamation 5_01
+  rotate: true
+  xy: 1416, 651
+  size: 33, 74
+  orig: 37, 78
+  offset: 3, 2
+  index: -1
+Pose 5 shock/exclamation 5_01W
+  rotate: false
+  xy: 346, 23
+  size: 42, 85
+  orig: 46, 88
+  offset: 3, 3
+  index: -1
+Pose 5 shock/exclamation 5_02
+  rotate: true
+  xy: 528, 114
+  size: 43, 64
+  orig: 47, 69
+  offset: 2, 2
+  index: -1
+Pose 5 shock/exclamation 5_02W
+  rotate: false
+  xy: 542, 216
+  size: 52, 75
+  orig: 57, 77
+  offset: 2, 1
+  index: -1
+Pose 5 shock/eye L5
+  rotate: false
+  xy: 1308, 177
+  size: 21, 26
+  orig: 28, 32
+  offset: 3, 3
+  index: -1
+Pose 5 shock/eye R5
+  rotate: true
+  xy: 1434, 50
+  size: 20, 26
+  orig: 27, 32
+  offset: 3, 3
+  index: -1
+Pose 5 shock/eyebrow L5
+  rotate: true
+  xy: 1027, 119
+  size: 36, 13
+  orig: 43, 19
+  offset: 4, 3
+  index: -1
+Pose 5 shock/eyebrow R5
+  rotate: true
+  xy: 1369, 31
+  size: 31, 12
+  orig: 38, 18
+  offset: 3, 3
+  index: -1
+Pose 5 shock/eyeline L5
+  rotate: false
+  xy: 1264, 158
+  size: 43, 17
+  orig: 48, 24
+  offset: 2, 4
+  index: -1
+Pose 5 shock/eyeline R5
+  rotate: false
+  xy: 1331, 181
+  size: 39, 18
+  orig: 44, 24
+  offset: 3, 3
+  index: -1
+Pose 5 shock/forearm L5
+  rotate: true
+  xy: 922, 2
+  size: 37, 44
+  orig: 42, 49
+  offset: 3, 3
+  index: -1
+Pose 5 shock/forearm L5W
+  rotate: false
+  xy: 761, 160
+  size: 48, 54
+  orig: 53, 58
+  offset: 3, 2
+  index: -1
+Pose 5 shock/forearm R5
+  rotate: true
+  xy: 1042, 95
+  size: 29, 40
+  orig: 33, 45
+  offset: 2, 3
+  index: -1
+Pose 5 shock/forearm R5W
+  rotate: true
+  xy: 863, 74
+  size: 37, 49
+  orig: 42, 55
+  offset: 2, 3
+  index: -1
+Pose 5 shock/fringe 5W
+  rotate: true
+  xy: 170, 540
+  size: 135, 161
+  orig: 138, 165
+  offset: 2, 2
+  index: -1
+Pose 5 shock/fringe 5_01
+  rotate: false
+  xy: 1136, 468
+  size: 123, 150
+  orig: 129, 155
+  offset: 3, 2
+  index: -1
+Pose 5 shock/fringe 5_02
+  rotate: true
+  xy: 478, 179
+  size: 18, 62
+  orig: 24, 67
+  offset: 3, 2
+  index: -1
+Pose 5 shock/hand L5
+  rotate: true
+  xy: 688, 38
+  size: 31, 34
+  orig: 36, 39
+  offset: 3, 3
+  index: -1
+Pose 5 shock/hand R5
+  rotate: true
+  xy: 1407, 133
+  size: 22, 35
+  orig: 27, 40
+  offset: 2, 3
+  index: -1
+Pose 5 shock/hand R5W
+  rotate: true
+  xy: 643, 3
+  size: 32, 44
+  orig: 37, 49
+  offset: 2, 2
+  index: -1
+Pose 5 shock/head 5
+  rotate: false
+  xy: 164, 241
+  size: 152, 154
+  orig: 156, 158
+  offset: 2, 2
+  index: -1
+Pose 5 shock/head 5W
+  rotate: false
+  xy: 628, 612
+  size: 163, 163
+  orig: 165, 168
+  offset: 2, 3
+  index: -1
+Pose 5 shock/mouth 5
+  rotate: false
+  xy: 1161, 12
+  size: 28, 34
+  orig: 34, 40
+  offset: 3, 3
+  index: -1
+Pose 5 shock/sclera L5
+  rotate: false
+  xy: 1153, 48
+  size: 32, 32
+  orig: 38, 38
+  offset: 3, 3
+  index: -1
+Pose 5 shock/sclera R5
+  rotate: false
+  xy: 1225, 30
+  size: 30, 32
+  orig: 35, 37
+  offset: 3, 3
+  index: -1
+Pose 6 please/arm L6
+  rotate: true
+  xy: 753, 216
+  size: 25, 55
+  orig: 29, 60
+  offset: 2, 2
+  index: -1
+Pose 6 please/arm L6W
+  rotate: false
+  xy: 1228, 258
+  size: 36, 66
+  orig: 40, 69
+  offset: 2, 1
+  index: -1
+Pose 6 please/body 6
+  rotate: false
+  xy: 894, 253
+  size: 64, 56
+  orig: 70, 62
+  offset: 3, 2
+  index: -1
+Pose 6 please/body 6W
+  rotate: false
+  xy: 390, 37
+  size: 75, 66
+  orig: 80, 71
+  offset: 2, 2
+  index: -1
+Pose 6 please/eye L6
+  rotate: false
+  xy: 1410, 49
+  size: 22, 25
+  orig: 29, 33
+  offset: 3, 4
+  index: -1
+Pose 6 please/eye R6
+  rotate: true
+  xy: 1382, 64
+  size: 22, 26
+  orig: 29, 34
+  offset: 4, 4
+  index: -1
+Pose 6 please/eye highlight L6
+  rotate: false
+  xy: 1141, 141
+  size: 18, 19
+  orig: 24, 25
+  offset: 3, 3
+  index: -1
+Pose 6 please/eye highlight R6
+  rotate: true
+  xy: 1327, 121
+  size: 17, 18
+  orig: 23, 25
+  offset: 3, 4
+  index: -1
+Pose 6 please/eyebrow L
+  rotate: false
+  xy: 1331, 158
+  size: 38, 21
+  orig: 46, 29
+  offset: 5, 5
+  index: -1
+Pose 6 please/eyebrow R
+  rotate: true
+  xy: 1257, 30
+  size: 32, 15
+  orig: 39, 22
+  offset: 3, 4
+  index: -1
+Pose 6 please/eyeline L6
+  rotate: false
+  xy: 1084, 118
+  size: 47, 21
+  orig: 53, 27
+  offset: 2, 3
+  index: -1
+Pose 6 please/eyeline R6
+  rotate: false
+  xy: 1414, 177
+  size: 39, 18
+  orig: 45, 25
+  offset: 3, 3
+  index: -1
+Pose 6 please/forearm L6
+  rotate: true
+  xy: 1175, 161
+  size: 41, 42
+  orig: 45, 47
+  offset: 2, 2
+  index: -1
+Pose 6 please/forearm L6W
+  rotate: false
+  xy: 1440, 225
+  size: 50, 53
+  orig: 54, 57
+  offset: 2, 2
+  index: -1
+Pose 6 please/forearm R6
+  rotate: true
+  xy: 724, 38
+  size: 24, 39
+  orig: 28, 45
+  offset: 2, 3
+  index: -1
+Pose 6 please/forearm R6W
+  rotate: true
+  xy: 955, 79
+  size: 32, 49
+  orig: 37, 54
+  offset: 3, 3
+  index: -1
+Pose 6 please/fringe 6W
+  rotate: true
+  xy: 166, 397
+  size: 141, 161
+  orig: 144, 165
+  offset: 2, 2
+  index: -1
+Pose 6 please/fringe 6_01
+  rotate: false
+  xy: 878, 463
+  size: 131, 151
+  orig: 135, 155
+  offset: 2, 1
+  index: -1
+Pose 6 please/fringe 6_02
+  rotate: true
+  xy: 894, 196
+  size: 15, 57
+  orig: 21, 62
+  offset: 3, 2
+  index: -1
+Pose 6 please/hand L6
+  rotate: false
+  xy: 563, 2
+  size: 28, 33
+  orig: 33, 38
+  offset: 2, 2
+  index: -1
+Pose 6 please/hand R6
+  rotate: false
+  xy: 1274, 30
+  size: 25, 32
+  orig: 30, 37
+  offset: 2, 2
+  index: -1
+Pose 6 please/hand R6W
+  rotate: true
+  xy: 737, 2
+  size: 34, 41
+  orig: 39, 47
+  offset: 2, 3
+  index: -1
+Pose 6 please/head 6
+  rotate: false
+  xy: 449, 535
+  size: 155, 150
+  orig: 159, 155
+  offset: 2, 3
+  index: -1
+Pose 6 please/head 6W
+  rotate: true
+  xy: 2, 103
+  size: 164, 160
+  orig: 168, 164
+  offset: 1, 2
+  index: -1
+Pose 6 please/mouth 6
+  rotate: true
+  xy: 1352, 64
+  size: 22, 28
+  orig: 26, 33
+  offset: 2, 2
+  index: -1
+Pose 6 please/sclera L6
+  rotate: false
+  xy: 1194, 66
+  size: 34, 28
+  orig: 40, 34
+  offset: 3, 3
+  index: -1
+Pose 6 please/sclera R6
+  rotate: false
+  xy: 1191, 2
+  size: 32, 28
+  orig: 37, 33
+  offset: 3, 3
+  index: -1
+Pose 6 please/shine 6
+  rotate: false
+  xy: 1138, 3
+  size: 21, 40
+  orig: 27, 44
+  offset: 3, 3
+  index: -1
+Pose 6 please/shine 6W
+  rotate: true
+  xy: 1084, 86
+  size: 30, 47
+  orig: 36, 53
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/arm L7
+  rotate: true
+  xy: 828, 2
+  size: 37, 46
+  orig: 42, 51
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/arm L7W
+  rotate: true
+  xy: 1372, 197
+  size: 45, 55
+  orig: 51, 61
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/arm R7
+  rotate: true
+  xy: 811, 124
+  size: 39, 50
+  orig: 44, 56
+  offset: 3, 4
+  index: -1
+Pose 7 fighting/arm R7W
+  rotate: true
+  xy: 1087, 206
+  size: 53, 59
+  orig: 55, 64
+  offset: 1, 3
+  index: -1
+Pose 7 fighting/body 7
+  rotate: true
+  xy: 753, 243
+  size: 66, 69
+  orig: 71, 75
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/body 7W
+  rotate: false
+  xy: 322, 110
+  size: 77, 80
+  orig: 81, 84
+  offset: 2, 2
+  index: -1
+Pose 7 fighting/confetti 01
+  rotate: false
+  xy: 983, 113
+  size: 42, 42
+  orig: 47, 47
+  offset: 3, 2
+  index: -1
+Pose 7 fighting/confetti 01W
+  rotate: false
+  xy: 811, 165
+  size: 50, 49
+  orig: 55, 55
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/confetti 02
+  rotate: false
+  xy: 1305, 121
+  size: 20, 27
+  orig: 25, 32
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 02W
+  rotate: true
+  xy: 1230, 64
+  size: 28, 34
+  orig: 33, 40
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 03
+  rotate: true
+  xy: 1472, 99
+  size: 20, 15
+  orig: 25, 22
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/confetti 03W
+  rotate: false
+  xy: 1258, 2
+  size: 30, 26
+  orig: 34, 30
+  offset: 2, 2
+  index: -1
+Pose 7 fighting/confetti 04
+  rotate: true
+  xy: 322, 91
+  size: 17, 21
+  orig: 23, 28
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 04W
+  rotate: true
+  xy: 1225, 2
+  size: 26, 31
+  orig: 31, 37
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/confetti 05
+  rotate: false
+  xy: 1347, 121
+  size: 18, 17
+  orig: 24, 24
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 05W
+  rotate: false
+  xy: 1290, 2
+  size: 26, 26
+  orig: 32, 32
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 06
+  rotate: true
+  xy: 1415, 103
+  size: 28, 25
+  orig: 34, 32
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 06W
+  rotate: false
+  xy: 1157, 97
+  size: 36, 34
+  orig: 42, 40
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 07
+  rotate: true
+  xy: 765, 39
+  size: 23, 46
+  orig: 29, 52
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 07W
+  rotate: true
+  xy: 1408, 493
+  size: 32, 56
+  orig: 37, 60
+  offset: 2, 2
+  index: -1
+Pose 7 fighting/confetti 08
+  rotate: false
+  xy: 1328, 95
+  size: 22, 24
+  orig: 28, 30
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 08W
+  rotate: false
+  xy: 1191, 32
+  size: 32, 32
+  orig: 36, 38
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/confetti 09
+  rotate: true
+  xy: 1047, 2
+  size: 37, 32
+  orig: 42, 38
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 09W
+  rotate: false
+  xy: 1084, 162
+  size: 45, 42
+  orig: 50, 46
+  offset: 2, 2
+  index: -1
+Pose 7 fighting/confetti 10
+  rotate: true
+  xy: 1379, 6
+  size: 23, 20
+  orig: 28, 26
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 10W
+  rotate: true
+  xy: 1352, 88
+  size: 31, 29
+  orig: 37, 35
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 11
+  rotate: false
+  xy: 1435, 26
+  size: 22, 22
+  orig: 28, 28
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/confetti 11w
+  rotate: false
+  xy: 1383, 88
+  size: 30, 31
+  orig: 36, 36
+  offset: 3, 2
+  index: -1
+Pose 7 fighting/confetti 12
+  rotate: false
+  xy: 1264, 129
+  size: 37, 27
+  orig: 42, 33
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/confetti 12W
+  rotate: true
+  xy: 569, 293
+  size: 44, 35
+  orig: 50, 41
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/eyebrow L7
+  rotate: false
+  xy: 1367, 121
+  size: 29, 16
+  orig: 36, 24
+  offset: 4, 3
+  index: -1
+Pose 7 fighting/eyebrow R7
+  rotate: true
+  xy: 1301, 30
+  size: 32, 11
+  orig: 41, 19
+  offset: 4, 4
+  index: -1
+Pose 7 fighting/eyeline L7
+  rotate: false
+  xy: 1410, 157
+  size: 37, 18
+  orig: 42, 24
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/eyeline R7
+  rotate: false
+  xy: 1372, 177
+  size: 40, 18
+  orig: 49, 25
+  offset: 5, 4
+  index: -1
+Pose 7 fighting/forearm L7
+  rotate: false
+  xy: 1195, 96
+  size: 34, 34
+  orig: 40, 40
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/forearm L7W
+  rotate: true
+  xy: 953, 158
+  size: 45, 44
+  orig: 50, 50
+  offset: 3, 3
+  index: -1
+Pose 7 fighting/forearm R7
+  rotate: true
+  xy: 689, 2
+  size: 34, 46
+  orig: 37, 55
+  offset: 3, 4
+  index: -1
+Pose 7 fighting/forearm R7W
+  rotate: true
+  xy: 649, 118
+  size: 40, 55
+  orig: 45, 61
+  offset: 4, 3
+  index: -1
+Pose 7 fighting/fringe 7W
+  rotate: false
+  xy: 750, 463
+  size: 126, 147
+  orig: 130, 150
+  offset: 2, 2
+  index: -1
+Pose 7 fighting/fringe 7_01
+  rotate: false
+  xy: 329, 401
+  size: 117, 137
+  orig: 121, 142
+  offset: 3, 2
+  index: -1
+Pose 7 fighting/fringe 7_02
+  rotate: true
+  xy: 1084, 141
+  size: 19, 55
+  orig: 25, 62
+  offset: 4, 4
+  index: -1
+Pose 7 fighting/hand L7
+  rotate: false
+  xy: 501, 293
+  size: 66, 98
+  orig: 69, 103
+  offset: 2, 3
+  index: -1
+Pose 7 fighting/hand L7W
+  rotate: true
+  xy: 183, 14
+  size: 75, 109
+  orig: 79, 112
+  offset: 2, 1
+  index: -1
+Pose 7 fighting/hand R7
+  rotate: true
+  xy: 1378, 332
+  size: 49, 105
+  orig: 53, 110
+  offset: 3, 2
+  index: -1
+Pose 7 fighting/hand R7W
+  rotate: false
+  xy: 438, 277
+  size: 61, 114
+  orig: 63, 118
+  offset: 1, 2
+  index: -1
+Pose 7 fighting/head 7
+  rotate: true
+  xy: 1378, 383
+  size: 108, 112
+  orig: 111, 116
+  offset: 1, 2
+  index: -1
+Pose 7 fighting/head 7W
+  rotate: false
+  xy: 318, 272
+  size: 118, 123
+  orig: 121, 126
+  offset: 2, 2
+  index: -1
+Pose 7 fighting/headbun 7
+  rotate: false
+  xy: 1261, 493
+  size: 145, 129
+  orig: 150, 134
+  offset: 3, 2
+  index: -1
+Pose 7 fighting/headbun 7W
+  rotate: false
+  xy: 448, 393
+  size: 156, 140
+  orig: 159, 143
+  offset: 1, 1
+  index: -1
+Pose 7 fighting/mouth 7
+  rotate: false
+  xy: 1349, 2
+  size: 28, 27
+  orig: 34, 33
+  offset: 3, 3
+  index: -1

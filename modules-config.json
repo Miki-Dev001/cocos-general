@@ -13,5 +13,8 @@
     },
     "multi-table": {
         "version": "23d6a"
+    },
+    "chat": {
+        "version": "71ce1"
     }
 }
