@@ -1,20 +1,20 @@
 {
     "side-menu": {
-        "version": "bf81a"
+        "version": "be047"
     },
     "pop-up-setting": {
-        "version": "354f0"
+        "version": "24241"
     },
     "history-panel": {
-        "version": "95abf"
+        "version": "00b06"
     },
     "information-panel": {
-        "version": "1f39b"
+        "version": "c7c5a"
     },
     "multi-table": {
-        "version": "92ff3"
+        "version": "29b44"
     },
     "chat": {
-        "version": "71ce1"
+        "version": "a96cb"
     }
 }
